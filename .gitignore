@@ -1,0 +1,14 @@
+# Datasets
+/data/
+*.zip
+
+# YOLOv8 training runs
+/runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/IDE files
+.vscode/
+.DS_Store

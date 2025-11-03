@@ -1,0 +1,12 @@
+names:
+- book-s-spine
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: bookshlef_detection
+  url: https://universe.roboflow.com/suaiedu4136/bookshlef_detection/dataset/5
+  version: 5
+  workspace: suaiedu4136
+test: ../test/images
+train: ../train/images
+val: ../valid/images
